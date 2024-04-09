@@ -26,6 +26,8 @@ php artisan migrate --seed
 
 The seeding will create one user with 3 categories and 5 posts in each category
 
+The password of the created user is 1234567 
+
 If the uploaded images are not loading run this command:
 
 ```
